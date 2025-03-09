@@ -1,9 +1,28 @@
+# 🖼️ NFT Marketplace
 
-You can start editing the page by modifying `pages/index.tsx`. 
+A decentralized **NFT Marketplace** where users can mint, buy, and sell NFTs securely using blockchain technology.
 
-### Deploy to IPFS
+## 🌟 Features
+- 🔹 **Mint NFTs** – Users can create and list their NFTs.
+- 🔹 **Buy & Sell NFTs** – Secure transactions using cryptocurrency.
+- 🔹 **Wallet Integration** – Connect MetaMask or any Web3 wallet.
+- 🔹 **Smart Contracts** – Ensure transparency and security.
+- 🔹 **Real-time Transactions** – View NFT details instantly.
 
-Deploy a copy of your application to IPFS using the following command:
+## 🛠️ Tech Stack
+- **Blockchain**: Ethereum, Solidity, Smart Contracts
+- **Frontend**: React.js, Next.js
+- **Backend**: Node.js, Express.js
+- **Web3 Integration**: Thirdweb / ethers.js
 
-yarn deploy
+## 🚀 Getting Started
 
+### Prerequisites
+Ensure you have **Node.js**, **npm/yarn**, and **MetaMask** installed.
+
+### Installation
+
+```sh
+git clone https://github.com/web3saad/NFT-Marketplace.git
+cd NFT-Marketplace
+npm install
